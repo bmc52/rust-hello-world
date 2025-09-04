@@ -1,2 +1,1 @@
-# rust-hello-world
-This repository is for practicing the GitHub Flow.
+This is Brandon Chang, a senior majoring in information technology.
